@@ -17,8 +17,8 @@ who meet a specified rating threshold.
 ## Getting Started
 1. Install dependencies:
 ```
-```
 pip install selenium webdriver-manager yagmail requests
+```
 2. Set up Gmail SMTP access:
 Use your Gmail and an App Password for yagmail:
 ```python
